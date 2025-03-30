@@ -12,6 +12,8 @@ function includes(list, target) {
 
 module.exports = includes;
 
+
+//SOLUTIONS
 function includes(list, target) {
   // Use for...of loop to iterate through elements in the list
   for (const element of list) {
